@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckboxTest</string>
+    <string name="submit">Submit</string>
+    <string name="number_of_checkboxes">Enter number of Checkboxes</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+</resources>
